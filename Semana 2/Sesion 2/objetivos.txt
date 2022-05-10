@@ -1,0 +1,7 @@
+1) Contenido de Etiquetas: (Paginas con Navegacion)
+    a) Grupo de Botones 
+    b) Progress Bar 
+    c) spinner
+    d) paginacion 
+
+2) Subir pagina web a servidor web

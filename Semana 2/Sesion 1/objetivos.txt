@@ -1,0 +1,10 @@
+Bootstrap
+
+1) Manejo de Imagenes 
+2) Jumbotrom
+3) Alertas 
+4) Botones 
+
+Consulta alumno: como hacer la pagina responsiva con Bootstrap.
+
+

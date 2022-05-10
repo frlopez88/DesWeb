@@ -1,0 +1,8 @@
+1) Manejo de Github
+    a) Creación de Repositorio
+    b) Compartir repositorio 
+    c) Primer Commit (Guardar Codigo)
+    d) Pull (Traer Codigo)
+
+2) Manejo de tarjetas 
+3) Retroalimentación de Grupos 

@@ -1,0 +1,21 @@
+
+1) Aprender a Utilizar el Servidor WEB
+2) Ejercicios Practicos 
+
+Ejercicio 
+
+Vamos a desarrollar un sitio web responsivo que contenga el menus de un restaurante 
+
+Vamos a tener tres secciones 
+1) Carnes
+2) Ensaldas 
+3) Pastas 
+
+Cada Seccion debe tener su link propio y una tabla de precios y productos
+
+Pizza de Hongos 100
+Spagettis       200
+Pan de Ajo      150
+
+Formato Carpeta 
+ActividadS3S1

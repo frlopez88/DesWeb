@@ -1,0 +1,7 @@
+Objetivos:
+
+1) Conocer que es Bootstrap 
+
+2) Instalar Bootstrap
+
+3) Conocer Etiquetas de Bootstrap
