@@ -1,0 +1,6 @@
+Objetivos
+
+
+1) Vamos a Conocer que es Javascript 
+
+2) Instalar nuestro propio script
