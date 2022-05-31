@@ -1,0 +1,5 @@
+objetivos 
+
+1) Repaso de JS 
+2) Manejo de Variables 
+3) Operaciones (Operadores)
