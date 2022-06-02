@@ -1,8 +1,9 @@
 
 var a = "Mundo";
-incrementales(5);
-
-
+// Invocar una funcion es mandar a llamar la funcion en el codigo ...
+multiplicacion(5, 'Hola');
+adios();
+suma();
 
 
 function hola(){
@@ -11,8 +12,10 @@ function hola(){
 	let sumatoria = x + a;
 	document.write(sumatoria);
 
+
 }
 
+// Declarar una funcion: Definir que hara ese bloque de codigo 
 function adios(){
 
 	let x = "Esta es una nueva variable";
@@ -22,9 +25,6 @@ function adios(){
 
 	document.write("Este es el adios de la variable x "+x + "<br>");
 	document.write("Este es el adios de la variable a "+a+ "<br>");
-
-	j = "A un nuevo valor";
-
 	document.write("Este es el adios de la variable j "+j+"<br>")
 }
 
@@ -75,7 +75,7 @@ function division(numero1, numero2){
 
 
 	const div = numero1/numero2;
-	const mod = numero1%numero2;
+	const mod = numero1 % numero2;
 
 
 	document.write("Dividendo:"+numero1 + " Divisor:"+ numero2 +" Resultado:"+ div + " Residuo:"+mod);

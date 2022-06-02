@@ -1,0 +1,6 @@
+objetivos:
+
+1) Manejo de Funciones 
+2) Objetos (Json)
+3) Eventos 
+
