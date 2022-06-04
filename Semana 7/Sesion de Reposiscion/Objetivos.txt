@@ -1,0 +1,30 @@
+Objetivos
+
+1) Objetos en JS 
+2) Manejo de Arreglos 
+
+
+
+Definicion de Un Objeto:
+
+Es un estructura que sirve para almacenar información por ejemplo:
+
+Que información podemos guardar de una persona?
+
+--- Propiedades
+
+(Son variables del objeto)
+
+1) Edad  
+2) Altura 
+3) Identidad 
+4) Nombre 
+
+
+En los Objetos tambien podemos definir acciones que puede operando sus propiedades:
+
+-- Metodos (funciones)
+
+1) Cumplir años (Aumenta en 1 la edad)
+2) Crecer (Aumenta la estatura de una persona)
+3) Modificar Nombre (Puede actualizar su nombre)
