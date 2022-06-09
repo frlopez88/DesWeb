@@ -1,0 +1,4 @@
+Objetivos:
+
+1) Manejo de Numeros (15 ~ 20 min)
+2) JQuery 
